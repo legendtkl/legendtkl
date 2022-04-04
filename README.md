@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Distributed System at ByteDance.Inc
+- 🌱 I used to be working on BigData (Flink/Spark/Hadoop Eco-system) at Aliyun.Inc
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about the techinical and career problem
+- 📫 How to reach me: taokelu@gmail.com
+
+![legendtkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendtkl)
 
 <!--
 **legendtkl/legendtkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
