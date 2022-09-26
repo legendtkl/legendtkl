@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Distributed System at ByteDance.Inc
+- 🔭 I’m currently working at ByteDance.Inc
 - 🌱 I used to be working on BigData (Flink/Spark/Hadoop Eco-system) at Aliyun.Inc
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with business collaboration。
 - 💬 Ask me about the techinical and career problem
 - 📫 How to reach me: taokelu@gmail.com
 
